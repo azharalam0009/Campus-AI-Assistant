@@ -1,0 +1,65 @@
+# Project-provided starter information; confirm details with official university sources before publishing.
+# Replace contact/address placeholders only after verifying the official details.
+
+COLLEGE NAME:
+Jagannath University
+
+ABOUT:
+Jagannath University is a university providing undergraduate and higher education programs.
+Students can contact the college administration and official notices for the latest information.
+
+COURSES:
+B.Tech
+BCA
+BPT
+BA.LLB
+BBA
+M.Tech
+MBA
+AHS
+
+LIBRARY:
+Opening Time: 9 AM
+Closing Time: 5 PM
+The library is available for reading, study and academic purposes.
+Students should follow the library rules and regulations.
+
+CANTEEN:
+Opening Time: 8 AM
+Closing Time: 6 PM
+Food and refreshments are available during college hours.
+
+ADMISSION:
+Students should check official university admission notifications and notices for the latest admission information.
+Admission requirements, dates and procedures may change.
+
+EXAM:
+Students should check official university examination notices for examination schedules, timetables and related updates.
+
+OFFICE:
+The college office handles administrative queries and student-related services.
+Students can contact the office during official working hours.
+
+CONTACT:
+Email: Jagannathuniversity.org
+Phone: 080-4418-7326
+
+LOCATION:
+IP-2&3,Chokhi Dhani,Phase 4,Sitapura Industrial Area,Sitapura,Jaipur,Rajasthan.
+
+FACILITIES:
+Library
+Computer Lab
+Classrooms
+Canteen
+Sports Facilities
+Wi-Fi
+Academic Facilities
+
+STUDENT SERVICES:
+Academic Support
+Administrative Support
+Examination Support
+Library Services
+Student Information Services
+
